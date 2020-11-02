@@ -1,0 +1,16 @@
+{
+  "name": "runner",
+  "author": "Jason Long",
+  "version": "0.0.1",
+  "description": "GitHub Actions self-hosted runner installer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "delay": "^4.3.0",
+    "inquirer": "^7.0.0",
+    "ora": "^3.0.0"
+  }
+}

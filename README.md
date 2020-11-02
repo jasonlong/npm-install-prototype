@@ -1,1 +1,4 @@
-# npm-install-prototype
+```
+npm i
+npm start
+```
